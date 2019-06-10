@@ -1,0 +1,82 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 17:08:23
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 17:16:49
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+[INFO][2019-06-10 17:16:58,880][basehttp.py:136]"GET /report/?cid=2 HTTP/1.1" 200 337
+[WARNING][2019-06-10 17:16:59,547][log.py:228]Not Found: /favicon.ico
+[WARNING][2019-06-10 17:16:59,549][basehttp.py:136]"GET /favicon.ico HTTP/1.1" 404 85
+[ERROR][2019-06-10 17:16:59,552][basehttp.py:136]"GET /favicon.ico HTTP/1.1" 500 59
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 17:19:34
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 17:19:54
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+大项目
+[INFO][2019-06-10 17:20:01,970][basehttp.py:136]"GET /hello/?cid=2 HTTP/1.1" 200 326
+[INFO][2019-06-10 17:20:56,558][basehttp.py:136]"GET /report/?cid=2 HTTP/1.1" 200 337
+[INFO][2019-06-10 17:22:46,564][basehttp.py:136]"GET /update_jd/?cid=1805191132365001 HTTP/1.1" 200 337
+[INFO][2019-06-10 17:23:09,608][basehttp.py:136]"GET /update_jd/?cid=1805191132365001 HTTP/1.1" 200 337
+大项目
+[INFO][2019-06-10 17:24:13,651][basehttp.py:136]"GET /hello/?cid=2 HTTP/1.1" 200 326
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 17:24:21
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+Message: Unable to get browser
+
+[INFO][2019-06-10 17:24:44,871][basehttp.py:136]"GET /report/?cid=2 HTTP/1.1" 200 337
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 17:28:54
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+大项目
+[INFO][2019-06-10 17:29:15,606][basehttp.py:136]"GET /hello/?cid=2 HTTP/1.1" 200 326
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 17:30:52
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+大项目
+[INFO][2019-06-10 17:30:52,872][basehttp.py:136]"GET /hello/?cid=2 HTTP/1.1" 200 326
+[INFO][2019-06-10 17:31:57,029][basehttp.py:136]"GET /update_jd?cid=1805191132365001 HTTP/1.1" 301 0
+Message: Unable to get browser
+
+[INFO][2019-06-10 17:32:48,287][basehttp.py:136]"GET /update_jd/?cid=1805191132365001 HTTP/1.1" 200 337
+大项目
+[INFO][2019-06-10 17:34:15,407][basehttp.py:136]"GET /hello/?cid=2 HTTP/1.1" 200 326
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 17:35:21
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+大项目
+[INFO][2019-06-10 17:35:25,019][basehttp.py:136]"GET /hello/?cid=2 HTTP/1.1" 200 326
