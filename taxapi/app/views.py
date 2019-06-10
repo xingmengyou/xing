@@ -22,7 +22,6 @@ def hello(request):
     cid = request.GET.get('cid')
     data = WjzInfo.objects.get(id=cid)
     data.name = '大项目'
-    print('大项目')
     data.save()
     return render(request, 'ss.html',context= {'status': '0'})
 
