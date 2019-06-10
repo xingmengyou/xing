@@ -1,3 +1,4 @@
+
 Performing system checks...
 
 System check identified no issues (0 silenced).
@@ -80,3 +81,28 @@ Starting development server at http://0.0.0.0:8000/
 Quit the server with CTRL-BREAK.
 ´óÏîÄ¿
 [INFO][2019-06-10 17:35:25,019][basehttp.py:136]"GET /hello/?cid=2 HTTP/1.1" 200 326
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 18:10:26
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 18:14:08
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 10, 2019 - 18:14:31
+Django version 2.1.4, using settings 'taxapi.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CTRL-BREAK.
+[INFO][2019-06-10 18:14:35,779][basehttp.py:136]"GET /hello/?cid=2 HTTP/1.1" 200 326
+[WARNING][2019-06-10 18:14:36,467][log.py:228]Not Found: /favicon.ico
+[WARNING][2019-06-10 18:14:36,470][basehttp.py:136]"GET /favicon.ico HTTP/1.1" 404 85
+[ERROR][2019-06-10 18:14:36,478][basehttp.py:136]"GET /favicon.ico HTTP/1.1" 500 59
