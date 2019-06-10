@@ -21,7 +21,7 @@ def isalarter(driver):
 def hello(request):
     cid = request.GET.get('cid')
     data = WjzInfo.objects.get(id=cid)
-    data.name = '大项目'
+    data.name = '大xin项目'
     data.save()
     return render(request, 'ss.html',context= {'status': '0'})
 
